@@ -39,5 +39,19 @@
 
 
 ## Subject : Mathematics
-###### Status: 0 / 8 completed
+###### Status: 3 / 16 completed
+
+
+#### Chapter 1 - Sets
+###### Simulation:   Plotting Set operations as a Venn Diagram
+
+
+#### Chapter 2 - Relations and Functions
+###### Simulation:   Plotting Relations
+
+#### Chapter 3 - Trigonometric Functions
+###### Simulation:   Plotting trigonometric functions - sin, cos and tan
+
+
+
 
