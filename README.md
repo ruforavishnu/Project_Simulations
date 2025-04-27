@@ -5,7 +5,7 @@
 
 
 ## Subject : Physics 
-###### Status: 8 / 15 completed
+###### Status: 8 / 15 Chapters simulations completed
 
 
 #### Chapter 1 - Physical World and Mechanics
@@ -32,6 +32,16 @@
 #### Chapter 8 - Gravitation
 ###### Simulation:   Simulating Gravitational Force Between Two Masses
 
+
+#### Chapter 9 - Mechanical Properties of Solids
+###### Simulation:   Simulating Hooke's law - stretching of a spring
+
+
+#### Chapter 10 - Mechanical Properties of Fluids
+###### Simulation:   Visualizing Fluid pressure at different depths
+
+#### Chapter 10 - Mechanical Properties of Fluids
+###### Simulation:   Visualizing Bernoulli's Principle with Fluid Flow animation
 ---
 
 
@@ -39,7 +49,7 @@
 
 
 ## Subject : Mathematics
-###### Status: 3 / 16 completed
+###### Status: 5 / 16 completed
 
 
 #### Chapter 1 - Sets
@@ -51,6 +61,14 @@
 
 #### Chapter 3 - Trigonometric Functions
 ###### Simulation:   Plotting trigonometric functions - sin, cos and tan
+
+#### Chapter 4 - Principle of Mathematical Induction
+###### Simulation:   Verifying mathematical induction proof for a given mathematical formula
+
+#### Chapter 5 - Complex Numbers
+###### Simulation:   Plotting Complex numbers on the Complex Plane
+
+
 
 
 
