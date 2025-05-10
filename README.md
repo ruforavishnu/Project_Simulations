@@ -2,10 +2,13 @@
 
 ###### Re-doing simulations of High School Mathematics/Physics in Python Programming language
 
+## 11th Standard Physics - (15 projects out of 15 projects completed)
+## 11th Standard Maths - (8 project out of 16 projects completed)
+## 12th Standard Physics - (1 project out of 15 projects completed)
+## 12th Standard Maths - (0 projects out of 13 projects completed)
 
-
-## Subject : Physics 
-###### Status: 8 / 15 Chapters simulations completed
+## Subject : 11th standard Physics 
+###### Status: 15 / 15 Chapters simulations completed
 
 
 #### Chapter 1 - Physical World and Mechanics
@@ -42,13 +45,24 @@
 
 #### Chapter 10 - Mechanical Properties of Fluids
 ###### Simulation:   Visualizing Bernoulli's Principle with Fluid Flow animation
+
+#### Chapter 11 - Kinetic Theory
+###### Simulation:   Simulating particle motion inside a gas box
+
+#### Chapter 12 - Oscillations
+###### Simulation:   Visualizing simulations of Simple Harmonic Motion
+
+#### Chapter 13 - Waves 
+###### Simulation:   Simulating a transverse wave
+
+
 ---
 
 
 
 
 
-## Subject : Mathematics
+## Subject : 11th standard Mathematics
 ###### Status: 5 / 16 completed
 
 
@@ -69,6 +83,13 @@
 ###### Simulation:   Plotting Complex numbers on the Complex Plane
 
 
+---
+
+## Subject : 12th standard Physics 
+###### Status: 1 / 15 Chapters simulations completed
+
+#### Chapter 1 - Electric Charges and Fields
+###### Simulation:   Visualizing Electric Fields of Point Charges
 
 
 
