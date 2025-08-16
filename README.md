@@ -6,6 +6,22 @@ This repository contains Python-based simulations and visualizations inspired by
 
 ---
 
+# Pending lists and Completed list's current status as of Aug 2025
+## 11th Standard Maths - (16 projects out of 16 projects completed)
+## 12th Standard Maths - (4 projects out of 13 projects completed)
+
+---
+
+## 11th Standard Physics - (15 projects out of 15 projects completed)
+## 12th Standard Physics - (1 project out of 15 projects completed)
+
+---
+---
+---
+
+
+
+
 ## 11th Standard Mathematics
 
 - **Chapter 1 – Sets**  
