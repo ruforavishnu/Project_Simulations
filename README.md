@@ -8,7 +8,7 @@ This repository contains Python-based simulations and visualizations inspired by
 
 # Pending lists and Completed list's current status as of Aug 2025
 ## 11th Standard Maths - (16 projects out of 16 projects completed)
-## 12th Standard Maths - (5 projects out of 13 projects completed)
+## 12th Standard Maths - (6 projects out of 13 projects completed)
 
 ---
 
@@ -93,6 +93,8 @@ This repository contains Python-based simulations and visualizations inspired by
 - [Chapter 5: Continuity and Differentiability](https://github.com/ruforavishnu/Project_Simulations/blob/main/12thStandardMaths_Chapter5_Continuity_and_Differentiability.ipynb)  
   *Symbolic Differentiation and Graphical Continuity Checks*
 
+- [Chapter 6: Application of Derivatives](https://github.com/ruforavishnu/Project_Simulations/blob/main/12th_Standard_Maths_Chapter6_Application_of_Derivatives.ipynb)  
+  *Optimization problems*
 
 ---
 
