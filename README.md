@@ -96,6 +96,9 @@ This repository contains Python-based simulations and visualizations inspired by
 - [Chapter 6: Application of Derivatives](https://github.com/ruforavishnu/Project_Simulations/blob/main/12th_Standard_Maths_Chapter6_Application_of_Derivatives.ipynb)  
   *Optimization problems*
 
+- [Chapter 7: Integrals - Section 1 - Definite Integrals ](https://github.com/ruforavishnu/Project_Simulations/blob/main/12th_Standard_Maths_Chapter7_Integrals_Section1_Definite_Integrals.ipynb)  
+  *Area under the curve*  
+
 ---
 
 ## 11th Standard Physics
