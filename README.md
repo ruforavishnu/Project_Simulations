@@ -1,4 +1,14 @@
-# Project_Simulations
+
+# 🧠 Project_Simulations
+
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://chatgpt.com/c/6916f959-9fac-8320-83f3-43261d3ce06e)  
+[![Notebooks](https://img.shields.io/badge/Format-Jupyter%20Notebook-orange.svg)](https://chatgpt.com/c/6916f959-9fac-8320-83f3-43261d3ce06e)  
+[![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](https://chatgpt.com/c/6916f959-9fac-8320-83f3-43261d3ce06e)
+
+#### Doing textbook problems of 11th std & 12th std Maths and Physics in simulation kindof manner  in Python Programming language. Intention is to solve the same problems in the textbook in a graphical manner (if required animation manner as in gif format) so the lessons learnt shall stick in memory faster. Odds are these learnings will come useful in future in my AI journey.
+
+---
+
 
 ### Simulations of High School Mathematics & Physics in Python
 
@@ -6,9 +16,9 @@ This repository contains Python-based simulations and visualizations inspired by
 
 ---
 
-# Pending lists and Completed list's current status as of Aug 2025
+# Pending lists and Completed list's current status as of Nov 2025
 ## 11th Standard Maths - (16 projects out of 16 projects completed)
-## 12th Standard Maths - (6 projects out of 13 projects completed)
+## 12th Standard Maths - (7 projects out of 13 projects completed)
 
 ---
 
