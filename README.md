@@ -107,7 +107,10 @@ This repository contains Python-based simulations and visualizations inspired by
   *Optimization problems*
 
 - [Chapter 7: Integrals - Section 1 - Definite Integrals ](https://github.com/ruforavishnu/Project_Simulations/blob/main/12th_Standard_Maths_Chapter7_Integrals_Section1_Definite_Integrals.ipynb)  
-  *Area under the curve*  
+  *Area under the curve*
+
+- [Chapter 8: Application of Integrals  ](https://github.com/ruforavishnu/Project_Simulations/blob/main/12th_Standard_Maths_Chapter8_Application_of_Integrals.ipynb)  
+  *Calculating electricity power consumption difference of 2 startups. one uses laptops, the other uses PC*
 
 ---
 
