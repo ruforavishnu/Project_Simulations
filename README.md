@@ -114,6 +114,88 @@ This repository contains Python-based simulations and visualizations inspired by
 
 ---
 
+aadyam year1 maths padichedikaam. enitt year 2 , year3 and so on povaam. anyways illatha kash kadam vangi amma medich thanna textbooks alle. ithum koodi padichedikaam. AI cheyaan ee maths okke gunam cheyyum for sure.
+
+
+## Engg 1st year maths - syllabus from MGU 
+
+
+# MODULE 1 — MATRICES & LINEAR ALGEBRA
+
+## Syllabus Areas
+
+### Major Important Topics
+
+- Rank of a matrix
+- Gaussian elimination
+- Eigenvalues & eigenvectors
+- Matrix diagonalization
+- Cayley–Hamilton theorem
+
+---
+
+# MODULE 2 — DIFFERENTIAL CALCULUS
+
+## Syllabus Areas
+
+
+### Major Important Topics
+
+- Partial derivatives
+- Jacobians
+- Taylor series expansion
+- Optimization (maxima/minima)
+- Multivariable calculus
+
+---
+
+# MODULE 3 — MULTIPLE INTEGRALS
+
+## Syllabus Areas
+
+
+### Major Important Topics
+
+- Double integration
+- Triple integration
+- Coordinate transformations
+- Area & volume computation
+- Beta/Gamma functions
+
+---
+
+# MODULE 4 — DIFFERENTIAL EQUATIONS
+
+## Syllabus Areas
+
+- Ordinary differential equations
+- First-order differential equations
+- Linear differential equations
+- Exact differential equations
+- Higher-order differential equations
+- Applications
+
+
+
+---
+
+# MODULE 5 — LAPLACE TRANSFORMS
+
+## Syllabus Areas
+
+- Laplace transforms
+- Inverse Laplace transforms
+- Properties of Laplace transforms
+- Unit step function
+- Solving differential equations using Laplace transforms
+
+
+
+
+
+---
+
+
 ## 11th Standard Physics
 
 - **Chapter 1 – Physical World and Mechanics**  
